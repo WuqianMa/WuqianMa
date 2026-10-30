@@ -2,6 +2,8 @@
 
 **Applied AI · Data Analytics · Research Software**
 
+**[Explore my portfolio website ↗](https://wuqianma.github.io/)**
+
 I work at the intersection of artificial intelligence, data analysis, and empirical research. My projects focus on turning research questions into usable tools: document-processing and retrieval workflows, interactive visualizations, and evaluations of AI systems.
 
 ## Selected projects
