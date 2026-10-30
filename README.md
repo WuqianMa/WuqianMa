@@ -20,7 +20,7 @@ An exploratory dashboard using Hong Kong Airbnb listing and review data. It brin
 ### [NewsLab — Controlled News-Feed Experiments](https://github.com/WuqianMa/NewsLab-Controlled-News-Feed-Experiments-in-the-Browser)
 **Research software · Behavioral experiments · AI-assisted development**
 
-[Repository and demos](https://github.com/WuqianMa/NewsLab-Controlled-News-Feed-Experiments-in-the-Browser)
+[Live interactive showcase](https://my-repo-peach-five.vercel.app/) · [Repository and demos](https://github.com/WuqianMa/NewsLab-Controlled-News-Feed-Experiments-in-the-Browser)
 
 A prototype for designing browser-based news-feed experiments, managing experimental conditions, recording participant interactions, and exporting research data. The project was developed through an AI-agent-assisted coding workflow; the repository documents how the agents were used.
 
