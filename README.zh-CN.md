@@ -52,6 +52,9 @@
 **[裁剪狗狗图像能改善犬种分类吗？](https://github.com/WuqianMa/Course_Project_Dog_Breed_classification)** · [完整报告](https://github.com/WuqianMa/Course_Project_Dog_Breed_classification/blob/main/report.pdf)  
 面向 120 个犬种的课程研究，比较完整图像与目标检测后裁剪图像的分类表现。ConvNeXt 对比实验中，裁剪使 Top-1 准确率从 91.88% 降为 88.70%。*PyTorch · ConvNeXt · Grounding-DINO。*
 
+**[人脸关键点检测 — 模型架构与数据增强对比](https://github.com/WuqianMa/Course_Project_Face_Keypoint)** · [课程报告](https://github.com/WuqianMa/Course_Project_Face_Keypoint/blob/main/report.pdf)  
+深度学习小组课程项目，研究 96×96 灰度人脸图像的关键点坐标回归。比较 MLP、浅层 CNN 与预训练 ResNet-18，并分析数据去重、五种数据增强策略及部分标签场景下的 masked MSE。仓库提供重构后的训练与分析代码，未发布原始数据和历史训练产物。*PyTorch · 计算机视觉 · 数据增强。*
+
 ### AI 与科研软件
 
 **[NewsLab — 新闻信息流实验](https://github.com/WuqianMa/NewsLab-Controlled-News-Feed-Experiments-in-the-Browser)** · [交互演示](https://my-repo-peach-five.vercel.app/)  
