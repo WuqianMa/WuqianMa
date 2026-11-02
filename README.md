@@ -52,6 +52,9 @@ Competition project exploring demographics, questionnaires and brain connectivit
 **[Does Cropping the Dog Help? — Fine-Grained Classification](https://github.com/WuqianMa/Course_Project_Dog_Breed_classification)** · [Full report](https://github.com/WuqianMa/Course_Project_Dog_Breed_classification/blob/main/report.pdf)  
 Course study comparing full images with detector-based cropping for 120 dog breeds. In the main ConvNeXt comparison, cropping reduced top-1 accuracy from 91.88% to 88.70%. *PyTorch · ConvNeXt · Grounding-DINO.*
 
+**[Facial Keypoint Detection — Architecture & Augmentation Study](https://github.com/WuqianMa/Course_Project_Face_Keypoint)** · [Course report](https://github.com/WuqianMa/Course_Project_Face_Keypoint/blob/main/report.pdf)  
+Group course project on landmark regression in 96×96 grayscale face images. Compares an MLP, a shallow CNN and pretrained ResNet-18; explores deduplication, five augmentation strategies and masked MSE for partially labeled images. The repository includes the refactored training and analysis code; original data and run artifacts are not published. *PyTorch · Computer vision · Data augmentation.*
+
 ### AI & Research Software
 
 **[NewsLab — Controlled News-Feed Experiments](https://github.com/WuqianMa/NewsLab-Controlled-News-Feed-Experiments-in-the-Browser)** · [Interactive demo](https://my-repo-peach-five.vercel.app/)  
