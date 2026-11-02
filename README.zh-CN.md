@@ -37,19 +37,36 @@
 - **Efrei — 数字工程师学院** — **人工智能 / 大数据**硕士阶段课程（2021 年 8 月—2024 年 4 月，LinkedIn 所列课程期间）；课程已完成，**仍需完成规定的毕业实习才能取得学位**。
 - **海南大学** — **工学学士，高分子材料与工程**（2016 年 6 月—2020 年 6 月）。
 
-## 精选项目
+## 按领域分类的项目
 
-### [香港 Airbnb — Geography of Preference](https://github.com/WuqianMa/Group-Projects-AI-and-Society)
-[在线仪表板](https://0-sigma-puce.vercel.app/) · JavaScript、Leaflet、ECharts、GeoJSON。交互式房源及评论地理数据探索（**小组项目**）。
+### 数据与可视化
 
-### [NewsLab — 新闻信息流实验](https://github.com/WuqianMa/NewsLab-Controlled-News-Feed-Experiments-in-the-Browser)
-[交互演示](https://my-repo-peach-five.vercel.app/) · 可配置的浏览器信息流实验原型，支持参与者行为记录与数据导出，采用 AI Agent 辅助开发。
+**[香港 Airbnb — Geography of Preference](https://github.com/WuqianMa/Group-Projects-AI-and-Society)** · [交互式仪表板](https://0-sigma-puce.vercel.app/)  
+小组项目：通过地图、地区比较和评论文本可视化探索香港 Airbnb 数据。*JavaScript · Leaflet · ECharts · GeoJSON。*
 
-### [EU Court — 大语言模型法律引用评估沙盒](https://github.com/WuqianMa/Course_Project_LLM-agent-EUcourt)
-让模拟检察方、辩护方和法官的 AI Agent 参与多轮法律辩论，并根据本地欧盟法规语料核查引用。包括提示词、实验记录及规则评分脚本。初次单次运行仅用于**探索性展示，不构成统计结论**。
+### 机器学习与数据科学
 
-### [E-commerce CI/CD — 课程项目](https://github.com/WuqianMa/e-commerce-CI-CD)
-基于 Django、Docker、自动化测试和 GitHub Actions 的 Web 应用。
+**[ADHD 与性别预测 — 2025 WiDS Datathon](https://github.com/WuqianMa/ADHD_Gender_classification)** · [在线 HTML 数据分析报告](https://wuqianma.github.io/adhd-eda/)  
+基于人口统计、问卷以及脑功能连接数据的竞赛项目，包含传统分类模型、图神经网络和已保存的交互式探索性数据分析。不是临床诊断工具。*Python · EDA · Plotly · GNN。*
+
+**[裁剪狗狗图像能改善犬种分类吗？](https://github.com/WuqianMa/Course_Project_Dog_Breed_classification)** · [完整报告](https://github.com/WuqianMa/Course_Project_Dog_Breed_classification/blob/main/report.pdf)  
+面向 120 个犬种的课程研究，比较完整图像与目标检测后裁剪图像的分类表现。ConvNeXt 对比实验中，裁剪使 Top-1 准确率从 91.88% 降为 88.70%。*PyTorch · ConvNeXt · Grounding-DINO。*
+
+### AI 与科研软件
+
+**[NewsLab — 新闻信息流实验](https://github.com/WuqianMa/NewsLab-Controlled-News-Feed-Experiments-in-the-Browser)** · [交互演示](https://my-repo-peach-five.vercel.app/)  
+可配置的浏览器研究原型，支持实验条件设计、参与者行为记录和结构化数据导出，使用 AI Agent 辅助开发。
+
+**[EU Court — 大语言模型法律引用评估](https://github.com/WuqianMa/Course_Project_LLM-agent-EUcourt)**  
+检察方、辩护方和法官参与五轮模拟法律辩论，使用本地欧盟法规语料核验引用。包含可重复实验框架和规则评分脚本；初次 N=1 结果仅用于探索。
+
+### 工程与分布式计算
+
+**[Apache Spark 连通分量查找](https://github.com/WuqianMa/Course_Project_Big_Data_Paradigm)**  
+小组课程项目：比较 PySpark 与 Scala/Spark 的迭代连通分量查找算法，包含合成图生成器、20 个图数据集及 40 份实验记录。*Spark RDD · PySpark · Scala。*
+
+**[E-commerce CI/CD — 课程项目](https://github.com/WuqianMa/e-commerce-CI-CD)**  
+使用 Django、Docker、自动化测试及 GitHub Actions 的 Web 应用。*Django · Docker · 持续集成。*
 
 ## 兴趣与技能
 

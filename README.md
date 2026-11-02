@@ -37,19 +37,36 @@ Based in the Paris region, France. Interested in building practical tools for do
 - **Efrei — Grande école du numérique** — Master's-level **Artificial Intelligence / Big Data** studies (Aug 2021–Apr 2024, LinkedIn-listed coursework period). Coursework completed; **mandatory final internship still outstanding** before graduation.
 - **Hainan University** — **Bachelor of Engineering**, Polymer Materials & Engineering (Jun 2016–Jun 2020).
 
-## Selected projects
+## Projects by category
 
-### [Hong Kong Airbnb — Geography of Preference](https://github.com/WuqianMa/Group-Projects-AI-and-Society)
-[Live dashboard](https://0-sigma-puce.vercel.app/) · JavaScript, Leaflet, ECharts, GeoJSON. Interactive geospatial and review-data exploration (**group project**).
+### Data & Visualization
 
-### [NewsLab — Controlled News-Feed Experiments](https://github.com/WuqianMa/NewsLab-Controlled-News-Feed-Experiments-in-the-Browser)
-[Interactive demo](https://my-repo-peach-five.vercel.app/) · A research prototype for configurable news-feed experiments, participant event tracking, and data exports, built with AI-agent-assisted development.
+**[Hong Kong Airbnb — Geography of Preference](https://github.com/WuqianMa/Group-Projects-AI-and-Society)** · [Interactive dashboard](https://0-sigma-puce.vercel.app/)  
+Group project visualizing geographic patterns in listings and reviews with maps, district comparisons, and text exploration. *JavaScript · Leaflet · ECharts · GeoJSON.*
 
-### [EU Court — LLM Citation Grounding Sandbox](https://github.com/WuqianMa/Course_Project_LLM-agent-EUcourt)
-A sandbox for checking simulated prosecutor, defense, and judge agents' legal citations against an EU regulation corpus. Includes role prompts, example transcripts and a rule-based scorer. Initial single-run comparisons are **exploratory, not statistically conclusive**.
+### Machine Learning & Data Science
 
-### [E-commerce CI/CD — Coursework](https://github.com/WuqianMa/e-commerce-CI-CD)
-Django web application exploring containers, automated tests and GitHub Actions.
+**[ADHD & Sex Prediction — WiDS Datathon 2025](https://github.com/WuqianMa/ADHD_Gender_classification)** · [Explore interactive HTML reports](https://wuqianma.github.io/adhd-eda/)  
+Competition project exploring demographics, questionnaires and brain connectivity; classical classification baselines, graph neural networks and saved EDA reports. Not a clinical diagnostic tool. *Python · EDA · Plotly · GNN.*
+
+**[Does Cropping the Dog Help? — Fine-Grained Classification](https://github.com/WuqianMa/Course_Project_Dog_Breed_classification)** · [Full report](https://github.com/WuqianMa/Course_Project_Dog_Breed_classification/blob/main/report.pdf)  
+Course study comparing full images with detector-based cropping for 120 dog breeds. In the main ConvNeXt comparison, cropping reduced top-1 accuracy from 91.88% to 88.70%. *PyTorch · ConvNeXt · Grounding-DINO.*
+
+### AI & Research Software
+
+**[NewsLab — Controlled News-Feed Experiments](https://github.com/WuqianMa/NewsLab-Controlled-News-Feed-Experiments-in-the-Browser)** · [Interactive demo](https://my-repo-peach-five.vercel.app/)  
+A browser-based research prototype for experimental conditions, participant interactions and structured exports, developed with AI-agent-assisted coding.
+
+**[EU Court — LLM Citation-Grounding Sandbox](https://github.com/WuqianMa/Course_Project_LLM-agent-EUcourt)**  
+Five-turn prosecutor/defense/judge mock proceeding that checks EU-law citations against a local regulation corpus. Includes an experiment harness, examples and deterministic scoring; initial N=1 results are exploratory.
+
+### Engineering & Distributed Systems
+
+**[Connected Components with Apache Spark](https://github.com/WuqianMa/Course_Project_Big_Data_Paradigm)**  
+Group course project comparing iterative connected-component algorithms in PySpark and Scala/Spark. Contains a graph generator and 40 saved experiment logs across 20 graph datasets. *Spark RDDs · PySpark · Scala.*
+
+**[E-commerce CI/CD — Coursework](https://github.com/WuqianMa/e-commerce-CI-CD)**  
+A Django web application exploring containerization, automated testing and GitHub Actions. *Django · Docker · CI/CD.*
 
 ## Interests & skills
 
