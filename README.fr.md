@@ -52,6 +52,9 @@ Projet de concours explorant les données démographiques, les questionnaires et
 **[Le recadrage améliore-t-il la classification des races de chiens ?](https://github.com/WuqianMa/Course_Project_Dog_Breed_classification)** · [Rapport complet](https://github.com/WuqianMa/Course_Project_Dog_Breed_classification/blob/main/report.pdf)  
 Étude universitaire sur 120 races comparant les images entières et recadrées. Avec ConvNeXt, le recadrage a réduit la précision top-1 de 91,88 % à 88,70 %. *PyTorch · ConvNeXt · Grounding-DINO.*
 
+**[Détection de points-clés du visage — Architectures et augmentation](https://github.com/WuqianMa/Course_Project_Face_Keypoint)** · [Rapport universitaire](https://github.com/WuqianMa/Course_Project_Face_Keypoint/blob/main/report.pdf)  
+Projet universitaire en groupe sur la régression de points-clés dans des visages en niveaux de gris (96 × 96). Comparaison d'un MLP, d'un CNN simple et de ResNet-18 pré-entraîné ; étude de la déduplication, de cinq stratégies d'augmentation et d'une MSE masquée pour les annotations incomplètes. Code réorganisé disponible ; données et journaux d'expérience originaux non publiés. *PyTorch · Vision par ordinateur · Augmentation de données.*
+
 ### IA et logiciels de recherche
 
 **[NewsLab — Expériences sur les fils d’actualité](https://github.com/WuqianMa/NewsLab-Controlled-News-Feed-Experiments-in-the-Browser)** · [Démo interactive](https://my-repo-peach-five.vercel.app/)  
